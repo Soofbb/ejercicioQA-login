@@ -1,9 +1,10 @@
 # Ejercicio QA Automation - Login (Selenium, Java, JUnit, Maven)
 Esta prueba muestra la automatización de pruebas de interfaz de usuario para una página de login, utilizando un archivo HTML proporcionado como base. Se emplearon las tecnologías Selenium WebDriver, Java 11, el framework de pruebas JUnit 5 y el gestor de proyectos Maven.
-
+![eclipse-workspace - TestQaLogin_src_test_java_com_testqalogin_tests_LoginTest java - Eclipse IDE 22_4_2025 21_40_34](https://github.com/user-attachments/assets/768300c0-eaa5-4193-be9c-0fcaad86665a)
 # Objetivo
 El objetivo fue diseñar e implementar casos de prueba automatizados para verificar la correcta presentación y el comportamiento básico de los elementos en la página de login representada por el archivo estático login.html ( aclarando que al ser estático, no se pueden testear funcionalidades como validar credenciales, etc).
-# Tecnologías utilizadas 
+# Tecnologías utilizadas
+
 * Selenium WebDriver: Para la interacción con el navegador.
 * Java 11: Lenguaje de programación.
 * JUnit 5: Framework para estructurar, organizar y ejecutar las pruebas.
